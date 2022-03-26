@@ -1,0 +1,1 @@
+The result is "firt text file" and "second text file"The result is "firt text file" and "second text file".The result is "first text file" and "second text file".
